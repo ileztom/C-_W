@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\bin\Debug\net8.0\KT_S_ALG.exe
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\bin\Debug\net8.0\KT_S_ALG.deps.json
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\bin\Debug\net8.0\KT_S_ALG.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\bin\Debug\net8.0\KT_S_ALG.dll
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\bin\Debug\net8.0\KT_S_ALG.pdb
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\obj\Debug\net8.0\KT_S_ALG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\obj\Debug\net8.0\KT_S_ALG.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\obj\Debug\net8.0\KT_S_ALG.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\obj\Debug\net8.0\KT_S_ALG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\obj\Debug\net8.0\KT_S_ALG.dll
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\obj\Debug\net8.0\refint\KT_S_ALG.dll
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\obj\Debug\net8.0\KT_S_ALG.pdb
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\obj\Debug\net8.0\KT_S_ALG.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\KT_S_ALG\KT_S_ALG\obj\Debug\net8.0\ref\KT_S_ALG.dll
