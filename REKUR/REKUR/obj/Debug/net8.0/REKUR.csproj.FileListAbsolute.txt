@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\bin\Debug\net8.0\REKUR.exe
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\bin\Debug\net8.0\REKUR.deps.json
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\bin\Debug\net8.0\REKUR.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\bin\Debug\net8.0\REKUR.dll
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\bin\Debug\net8.0\REKUR.pdb
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\obj\Debug\net8.0\REKUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\obj\Debug\net8.0\REKUR.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\obj\Debug\net8.0\REKUR.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\obj\Debug\net8.0\REKUR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\obj\Debug\net8.0\REKUR.dll
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\obj\Debug\net8.0\refint\REKUR.dll
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\obj\Debug\net8.0\REKUR.pdb
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\obj\Debug\net8.0\REKUR.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\REKUR\REKUR\obj\Debug\net8.0\ref\REKUR.dll
