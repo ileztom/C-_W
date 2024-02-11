@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\alg1\alg1\bin\Debug\net8.0\alg1.exe
+C:\Users\Admin\Downloads\Program\alg1\alg1\bin\Debug\net8.0\alg1.deps.json
+C:\Users\Admin\Downloads\Program\alg1\alg1\bin\Debug\net8.0\alg1.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\alg1\alg1\bin\Debug\net8.0\alg1.dll
+C:\Users\Admin\Downloads\Program\alg1\alg1\bin\Debug\net8.0\alg1.pdb
+C:\Users\Admin\Downloads\Program\alg1\alg1\obj\Debug\net8.0\alg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\alg1\alg1\obj\Debug\net8.0\alg1.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\alg1\alg1\obj\Debug\net8.0\alg1.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\alg1\alg1\obj\Debug\net8.0\alg1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\alg1\alg1\obj\Debug\net8.0\alg1.dll
+C:\Users\Admin\Downloads\Program\alg1\alg1\obj\Debug\net8.0\refint\alg1.dll
+C:\Users\Admin\Downloads\Program\alg1\alg1\obj\Debug\net8.0\alg1.pdb
+C:\Users\Admin\Downloads\Program\alg1\alg1\obj\Debug\net8.0\alg1.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\alg1\alg1\obj\Debug\net8.0\ref\alg1.dll
