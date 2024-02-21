@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\KTR\KTR\bin\Debug\net8.0\KTR.exe
+C:\Users\Admin\Downloads\Program\KTR\KTR\bin\Debug\net8.0\KTR.deps.json
+C:\Users\Admin\Downloads\Program\KTR\KTR\bin\Debug\net8.0\KTR.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\KTR\KTR\bin\Debug\net8.0\KTR.dll
+C:\Users\Admin\Downloads\Program\KTR\KTR\bin\Debug\net8.0\KTR.pdb
+C:\Users\Admin\Downloads\Program\KTR\KTR\obj\Debug\net8.0\KTR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\KTR\KTR\obj\Debug\net8.0\KTR.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\KTR\KTR\obj\Debug\net8.0\KTR.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\KTR\KTR\obj\Debug\net8.0\KTR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\KTR\KTR\obj\Debug\net8.0\KTR.dll
+C:\Users\Admin\Downloads\Program\KTR\KTR\obj\Debug\net8.0\refint\KTR.dll
+C:\Users\Admin\Downloads\Program\KTR\KTR\obj\Debug\net8.0\KTR.pdb
+C:\Users\Admin\Downloads\Program\KTR\KTR\obj\Debug\net8.0\KTR.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\KTR\KTR\obj\Debug\net8.0\ref\KTR.dll
