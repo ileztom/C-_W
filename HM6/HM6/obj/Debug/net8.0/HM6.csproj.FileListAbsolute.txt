@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\HM6\HM6\bin\Debug\net8.0\HM6.exe
+C:\Users\Admin\Downloads\Program\HM6\HM6\bin\Debug\net8.0\HM6.deps.json
+C:\Users\Admin\Downloads\Program\HM6\HM6\bin\Debug\net8.0\HM6.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\HM6\HM6\bin\Debug\net8.0\HM6.dll
+C:\Users\Admin\Downloads\Program\HM6\HM6\bin\Debug\net8.0\HM6.pdb
+C:\Users\Admin\Downloads\Program\HM6\HM6\obj\Debug\net8.0\HM6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\HM6\HM6\obj\Debug\net8.0\HM6.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\HM6\HM6\obj\Debug\net8.0\HM6.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\HM6\HM6\obj\Debug\net8.0\HM6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\HM6\HM6\obj\Debug\net8.0\HM6.dll
+C:\Users\Admin\Downloads\Program\HM6\HM6\obj\Debug\net8.0\refint\HM6.dll
+C:\Users\Admin\Downloads\Program\HM6\HM6\obj\Debug\net8.0\HM6.pdb
+C:\Users\Admin\Downloads\Program\HM6\HM6\obj\Debug\net8.0\HM6.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\HM6\HM6\obj\Debug\net8.0\ref\HM6.dll
