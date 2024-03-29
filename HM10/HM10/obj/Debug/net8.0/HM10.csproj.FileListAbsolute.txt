@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\HM10\HM10\obj\Debug\net8.0\HM10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\HM10\HM10\obj\Debug\net8.0\HM10.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\HM10\HM10\obj\Debug\net8.0\HM10.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\HM10\HM10\obj\Debug\net8.0\HM10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\HM10\HM10\bin\Debug\net8.0\HM10.exe
+C:\Users\Admin\Downloads\Program\HM10\HM10\bin\Debug\net8.0\HM10.deps.json
+C:\Users\Admin\Downloads\Program\HM10\HM10\bin\Debug\net8.0\HM10.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\HM10\HM10\bin\Debug\net8.0\HM10.dll
+C:\Users\Admin\Downloads\Program\HM10\HM10\bin\Debug\net8.0\HM10.pdb
+C:\Users\Admin\Downloads\Program\HM10\HM10\obj\Debug\net8.0\HM10.dll
+C:\Users\Admin\Downloads\Program\HM10\HM10\obj\Debug\net8.0\refint\HM10.dll
+C:\Users\Admin\Downloads\Program\HM10\HM10\obj\Debug\net8.0\HM10.pdb
+C:\Users\Admin\Downloads\Program\HM10\HM10\obj\Debug\net8.0\HM10.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\HM10\HM10\obj\Debug\net8.0\ref\HM10.dll
