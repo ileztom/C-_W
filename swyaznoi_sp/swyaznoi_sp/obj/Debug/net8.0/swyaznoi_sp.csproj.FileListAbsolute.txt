@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\bin\Debug\net8.0\swyaznoi_sp.exe
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\bin\Debug\net8.0\swyaznoi_sp.deps.json
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\bin\Debug\net8.0\swyaznoi_sp.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\bin\Debug\net8.0\swyaznoi_sp.dll
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\bin\Debug\net8.0\swyaznoi_sp.pdb
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\obj\Debug\net8.0\swyaznoi_sp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\obj\Debug\net8.0\swyaznoi_sp.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\obj\Debug\net8.0\swyaznoi_sp.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\obj\Debug\net8.0\swyaznoi_sp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\obj\Debug\net8.0\swyaznoi_sp.dll
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\obj\Debug\net8.0\refint\swyaznoi_sp.dll
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\obj\Debug\net8.0\swyaznoi_sp.pdb
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\obj\Debug\net8.0\swyaznoi_sp.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\swyaznoi_sp\swyaznoi_sp\obj\Debug\net8.0\ref\swyaznoi_sp.dll
