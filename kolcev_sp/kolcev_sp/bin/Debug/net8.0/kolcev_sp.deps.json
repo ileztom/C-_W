@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kolcev_sp/1.0.0": {
+        "runtime": {
+          "kolcev_sp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kolcev_sp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
