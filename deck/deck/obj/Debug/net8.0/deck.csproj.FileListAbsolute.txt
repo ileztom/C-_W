@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\deck\deck\bin\Debug\net8.0\deck.exe
+C:\Users\Admin\Downloads\Program\deck\deck\bin\Debug\net8.0\deck.deps.json
+C:\Users\Admin\Downloads\Program\deck\deck\bin\Debug\net8.0\deck.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\deck\deck\bin\Debug\net8.0\deck.dll
+C:\Users\Admin\Downloads\Program\deck\deck\bin\Debug\net8.0\deck.pdb
+C:\Users\Admin\Downloads\Program\deck\deck\obj\Debug\net8.0\deck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\deck\deck\obj\Debug\net8.0\deck.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\deck\deck\obj\Debug\net8.0\deck.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\deck\deck\obj\Debug\net8.0\deck.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\deck\deck\obj\Debug\net8.0\deck.dll
+C:\Users\Admin\Downloads\Program\deck\deck\obj\Debug\net8.0\refint\deck.dll
+C:\Users\Admin\Downloads\Program\deck\deck\obj\Debug\net8.0\deck.pdb
+C:\Users\Admin\Downloads\Program\deck\deck\obj\Debug\net8.0\deck.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\deck\deck\obj\Debug\net8.0\ref\deck.dll
