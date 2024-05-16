@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\bin\Debug\net8.0\SM_Graf.exe
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\bin\Debug\net8.0\SM_Graf.deps.json
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\bin\Debug\net8.0\SM_Graf.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\bin\Debug\net8.0\SM_Graf.dll
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\bin\Debug\net8.0\SM_Graf.pdb
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\obj\Debug\net8.0\SM_Graf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\obj\Debug\net8.0\SM_Graf.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\obj\Debug\net8.0\SM_Graf.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\obj\Debug\net8.0\SM_Graf.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\obj\Debug\net8.0\SM_Graf.dll
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\obj\Debug\net8.0\refint\SM_Graf.dll
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\obj\Debug\net8.0\SM_Graf.pdb
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\obj\Debug\net8.0\SM_Graf.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\SM_Graf\SM_Graf\obj\Debug\net8.0\ref\SM_Graf.dll
