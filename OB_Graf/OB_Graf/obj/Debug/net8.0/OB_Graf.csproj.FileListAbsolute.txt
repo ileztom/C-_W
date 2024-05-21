@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\bin\Debug\net8.0\OB_Graf.exe
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\bin\Debug\net8.0\OB_Graf.deps.json
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\bin\Debug\net8.0\OB_Graf.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\bin\Debug\net8.0\OB_Graf.dll
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\bin\Debug\net8.0\OB_Graf.pdb
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\obj\Debug\net8.0\OB_Graf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\obj\Debug\net8.0\OB_Graf.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\obj\Debug\net8.0\OB_Graf.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\obj\Debug\net8.0\OB_Graf.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\obj\Debug\net8.0\OB_Graf.dll
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\obj\Debug\net8.0\refint\OB_Graf.dll
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\obj\Debug\net8.0\OB_Graf.pdb
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\obj\Debug\net8.0\OB_Graf.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf\obj\Debug\net8.0\ref\OB_Graf.dll

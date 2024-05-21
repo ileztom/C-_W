@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\bin\Debug\net8.0\OB_Graf2.exe
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\bin\Debug\net8.0\OB_Graf2.deps.json
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\bin\Debug\net8.0\OB_Graf2.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\bin\Debug\net8.0\OB_Graf2.dll
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\bin\Debug\net8.0\OB_Graf2.pdb
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\obj\Debug\net8.0\OB_Graf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\obj\Debug\net8.0\OB_Graf2.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\obj\Debug\net8.0\OB_Graf2.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\obj\Debug\net8.0\OB_Graf2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\obj\Debug\net8.0\OB_Graf2.dll
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\obj\Debug\net8.0\refint\OB_Graf2.dll
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\obj\Debug\net8.0\OB_Graf2.pdb
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\obj\Debug\net8.0\OB_Graf2.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\OB_Graf\OB_Graf2\obj\Debug\net8.0\ref\OB_Graf2.dll
