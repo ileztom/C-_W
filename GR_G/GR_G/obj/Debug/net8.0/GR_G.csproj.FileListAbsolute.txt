@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\bin\Debug\net8.0\GR_G.exe
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\bin\Debug\net8.0\GR_G.deps.json
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\bin\Debug\net8.0\GR_G.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\bin\Debug\net8.0\GR_G.dll
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\bin\Debug\net8.0\GR_G.pdb
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\obj\Debug\net8.0\GR_G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\obj\Debug\net8.0\GR_G.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\obj\Debug\net8.0\GR_G.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\obj\Debug\net8.0\GR_G.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\obj\Debug\net8.0\GR_G.dll
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\obj\Debug\net8.0\refint\GR_G.dll
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\obj\Debug\net8.0\GR_G.pdb
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\obj\Debug\net8.0\GR_G.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\GR_G\GR_G\obj\Debug\net8.0\ref\GR_G.dll
