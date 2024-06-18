@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\bin\Debug\net8.0\Z#4.exe
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\bin\Debug\net8.0\Z#4.deps.json
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\bin\Debug\net8.0\Z#4.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\bin\Debug\net8.0\Z#4.dll
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\bin\Debug\net8.0\Z#4.pdb
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\obj\Debug\net8.0\Z#4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\obj\Debug\net8.0\Z#4.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\obj\Debug\net8.0\Z#4.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\obj\Debug\net8.0\Z#4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\obj\Debug\net8.0\Z#4.dll
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\obj\Debug\net8.0\refint\Z#4.dll
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\obj\Debug\net8.0\Z#4.pdb
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\obj\Debug\net8.0\Z#4.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\Z#4\Z#4\obj\Debug\net8.0\ref\Z#4.dll
